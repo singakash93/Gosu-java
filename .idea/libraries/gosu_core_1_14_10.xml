@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="gosu-core-1.14.10">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/gosu-1.14.10/lib/gosu-core-1.14.10.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/gosu-1.14.10/lib/gosu-core-api-1.14.10.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/gosu-1.14.10/lib/gosu-doc-1.14.10.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/gosu-1.14.10/lib/gosu-lab-1.14.10.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/gosu-1.14.10/lib/gw-asm-all-5.0.4.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/gosu-1.14.10/lib/gw-jcommander-1.48.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
